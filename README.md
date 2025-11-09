@@ -25,9 +25,6 @@ Kaggle-House-Prices-Prediction-Using-Keras/
 ├── submissions/              # Generated submission files
 │   └── submission.csv
 │
-├── images/                   # Screenshots and visual results
-│   └── kaggle_scores.png
-│
 ├── README.md                 # Project overview and documentation
 ├── requirements.txt          # List of dependencies
 └── LICENSE                   # License (if applicable)
