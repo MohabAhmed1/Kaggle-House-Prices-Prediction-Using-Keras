@@ -22,7 +22,7 @@ Kaggle-House-Prices-Prediction-Using-Keras/
 ├── model/                   # Saved trained models
 │   └── house_price_model.h5
 │
-├── submissions/              # Generated submission files
+├── submission/              # Generated submission files
 │   └── submission.csv
 │
 ├── README.md                 # Project overview and documentation
