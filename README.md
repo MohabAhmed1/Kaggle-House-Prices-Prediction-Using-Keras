@@ -19,7 +19,7 @@ Kaggle-House-Prices-Prediction-Using-Keras/
 ├── notebooks/                # Main training and analysis notebooks
 │   └── house_price_model.ipynb
 │
-├── models/                   # Saved trained models
+├── model/                   # Saved trained models
 │   └── house_price_model.h5
 │
 ├── submissions/              # Generated submission files
