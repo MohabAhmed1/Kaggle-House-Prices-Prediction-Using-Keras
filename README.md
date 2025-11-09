@@ -41,6 +41,13 @@ Predict the `SalePrice` of residential homes using the Kaggle dataset: [House Pr
 
 ---
 
+## 📊 Results
+- **Validation MAE (log scale):** ~0.11 (~11% relative error)  
+- **Kaggle RMSLE (public leaderboard):** **0.1690** ✅  
+- **Submission:** `submission.csv` ready for upload to Kaggle.
+
+---
+
 ## 🚀 Usage
 1. Clone the repository:
 ```bash
