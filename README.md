@@ -9,6 +9,32 @@ Predict the `SalePrice` of residential homes using the Kaggle dataset: [House Pr
 
 ---
 
+## 📁 Folder Structure
+Kaggle-House-Prices-Prediction-Using-Keras/
+```
+├── data/                     # Contains Kaggle train.csv and test.csv
+│   ├── train.csv
+│   └── test.csv
+│
+├── notebooks/                # Main training and analysis notebooks
+│   └── house_price_model.ipynb
+│
+├── models/                   # Saved trained models
+│   └── house_price_model.h5
+│
+├── submissions/              # Generated submission files
+│   └── submission.csv
+│
+├── images/                   # Screenshots and visual results
+│   └── kaggle_scores.png
+│
+├── README.md                 # Project overview and documentation
+├── requirements.txt          # List of dependencies
+└── LICENSE                   # License (if applicable)
+
+```
+---
+
 ## 🧠 Model Details
 - **Framework:** Keras (TensorFlow backend)
 - **Architecture:** 
@@ -48,6 +74,11 @@ Predict the `SalePrice` of residential homes using the Kaggle dataset: [House Pr
 
 ---
 
+### 🏆 Kaggle Submission Results
+Below is a screenshot showing the two submissions and their leaderboard scores:
+<img width="1497" height="203" alt="image" src="https://github.com/user-attachments/assets/54dac85b-60e5-446e-8e3b-b11cef8838c8" />
+
+---
 ## 🚀 Usage
 1. Clone the repository:
 ```bash
